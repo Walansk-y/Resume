@@ -14,12 +14,12 @@
 > * Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List
 
 **Orange Technical College (East Campus) | Orlando, FL**
-> Certification in Information Technology | GPA: 4.0                                                                    
-> Relevant Coursework: Advanced Operating Systems, Network Fundamentals, 
+> * Certification in Information Technology | GPA: 4.0                                                                    
+> * Relevant Coursework: Advanced Operating Systems, Network Fundamentals, 
 
 **Edgewater High School | Orlando, FL**
-> High School Diploma | GPA: 3.57                                                                                              
-> Awards/Honors: Principal Honor Roll, Robert Brendan Carr Musician’s Scholarship
+> * High School Diploma | GPA: 3.57                                                                                              
+> * Awards/Honors: Principal Honor Roll, Robert Brendan Carr Musician’s Scholarship
 
 ## Work Experience
 **Gordon Food Service | Plant City, FL**
