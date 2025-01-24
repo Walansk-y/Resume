@@ -1,7 +1,7 @@
 # IT Technician
 
 ## Education
-**Bethune-Cookman University | Daytona Beach, FL**_August 2021 - May 2025_</br> 
+**Bethune-Cookman University | Daytona Beach, FL** _August 2021 - May 2025_</br> 
 _Bachelor of Science_ | Computer Information Systems | GPA 3.3</br>
 **Orange Technical College (East Campus) | Orlando, FL**  _August 2019 - April 2021_</br>
 _Certificate Degree_ | Information Technology | GPA: 4.0
