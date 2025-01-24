@@ -1,7 +1,7 @@
 # IT Technician
 
 ## Education
-**Bethune-Cookman University | Daytona Beach, FL**_August 2021 - May 2025_
+**Bethune-Cookman University | Daytona Beach, FL**_August 2021 - May 2025_</br> 
 _Bachelor of Science_ | Computer Information Systems | GPA 3.3
 **Orange Technical College (East Campus) | Orlando, FL**  _August 2019 - April 2021_
 _Certificate Degree_ | Information Technology | GPA: 4.0
@@ -13,6 +13,7 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 * CJIS Certification: Certified Since January 10, 2025 | Expires: January 10, 2026
 * LPI Linux Essentials: _In Progress_  | Expires: N/A
 * CCNA: _In Progress_  | Expires: N/A
+
 ## Technical Skills
 **Programming Languages**: Python, HTML, CSS, MySQL, Powershell
 
