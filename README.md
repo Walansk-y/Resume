@@ -1,8 +1,9 @@
 # IT Technician
 
 ## Education
-**Bethune-Cookman University | Daytona Beach, FL** <sup>_August 2021 - May 2025_</sup> 
-_Bachelor of Science_ | Computer Information Systems | GPA 3.3 </br> **Orange Technical College (East Campus) | Orlando, FL** <sup>_August 2019 - April 2021_</sup>
+**Bethune-Cookman University | Daytona Beach, FL** <sup>_August 2021 - May 2025_</sup>  
+_Bachelor of Science_ | Computer Information Systems | GPA 3.3  
+**Orange Technical College (East Campus) | Orlando, FL** <sup>_August 2019 - April 2021_</sup>  
 _Certificate Degree_ | Information Technology | GPA: 4.0
 
 ## Certifications
@@ -17,7 +18,7 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 **Programming Languages**: Python, HTML, CSS, MySQL, Powershell  
 **Development/Project Tools**: GitHub, NetBox, Jira, Slack, OpenSSL, PuTTY, Wireshark, Notepad++, Active Directory  
 **Operating Systems**: macOS, Linux, Windows,  IOS, Android  
-**Soft Skills**: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving </br>
+**Soft Skills**: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving
 
 ## Work Experience
 **City of Daytona Beach | Information Technology Intern | Daytona Beach, FL |** <sup>_December 2024 - Present_</sup>
