@@ -8,7 +8,7 @@ _Bachelor of Science_ | Computer Information Systems | GPA 3.3
 
 **Orange Technical College (East Campus) | Orlando, FL**  _August 2019 - April 2021_
 _Certificate Degree_ | Information Technology | GPA: 4.0
-* Relevant Coursework: Advanced Operating Systems, Network Fundamentals,
+* Relevant Coursework: Advanced Operating Systems, Network Fundamentals
 
 ## Certifications
 * [CompTIA A+](https://www.credly.com/earner/earned/badge/60ac2b04-2474-48c2-a9f9-78090cee9b80): Certified Since April 27, 2021 | Expires: January 10, 2028
