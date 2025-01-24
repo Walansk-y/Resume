@@ -1,10 +1,10 @@
 # IT Technician
 
 ## Education
-**Bethune-Cookman University | Daytona Beach, FL** <sup>_August 2021 - May 2025_</sup></br> 
+**Bethune-Cookman University | Daytona Beach, FL** <sup>_August 2021 - May 2025_</sup> </br> 
 _Bachelor of Science_ | Computer Information Systems | GPA 3.3</br>
 
-**Orange Technical College (East Campus) | Orlando, FL** <sup>_August 2019 - April 2021_</sup></br>
+**Orange Technical College (East Campus) | Orlando, FL** <sup>_August 2019 - April 2021_</sup> </br>
 _Certificate Degree_ | Information Technology | GPA: 4.0
 
 ## Certifications
@@ -22,17 +22,17 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 **Soft Skills**: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving</br>
 
 ## Work Experience
-**City of Daytona Beach | Information Technology Intern | Daytona Beach, FL |** _December 2024 - Present_
+**City of Daytona Beach | Information Technology Intern | Daytona Beach, FL |** <sup>_December 2024 - Present_</sup>
 > * Assisted with installing, configuring, and maintaining hardware and software systems across the city’s public buildings and the police department, as part of their disaster recovery plan.
 > * Provided technical support and troubleshooting for end-users, resolving issues with workstations, printers, and other IT equipment through ticketing systems.
 > * Collaborated with IT teams to ensure network security, connectivity, and adherence to best practices for city operations.
 
-**Gordon Food Service |  Network Administrator Intern | Plant City, FL |** _May 2024 - July 2024_
+**Gordon Food Service |  Network Administrator Intern | Plant City, FL |** <sup>_May 2024 - July 2024_</sup>
 > * Decommissioned 100+ obsolete Cisco hardware components as part of a comprehensive network upgrade for a 500,000 sq ft distribution center.
 > * Established and maintained 50+ connections to core server interfaces, creating and assigning IP addresses to enhance configuration accuracy.
 > * Utilized NetBox to streamline IP allocation processes, boosting documentation accuracy by 35% and improving network reliability.
 
-**Orange Technical College (East Campus) | Teacher Assistant | Orlando, FL |** _Jan 2020 - May 2020_
+**Orange Technical College (East Campus) | Teacher Assistant | Orlando, FL |** <sup>_Jan 2020 - May 2020_</sup>
 > * Diagnosed and resolved hardware/software issues for 30+ devices weekly, maintaining lab efficiency for students.
 > * Reimaged 50+ laptops and desktops monthly, ensuring consistent functionality for instructional purposes.
 > * Analyzed bi-weekly equipment performance reports to identify and resolve recurring technical issues.
