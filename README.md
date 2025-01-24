@@ -2,13 +2,9 @@
 
 ## Education
 **Bethune-Cookman University | Daytona Beach, FL**_August 2021 - May 2025_
-
 _Bachelor of Science_ | Computer Information Systems | GPA 3.3
-* Relevant Coursework: Computer Networking, Network Administration I, Network Security
-
 **Orange Technical College (East Campus) | Orlando, FL**  _August 2019 - April 2021_
 _Certificate Degree_ | Information Technology | GPA: 4.0
-* Relevant Coursework: Advanced Operating Systems, Network Fundamentals
 
 ## Certifications
 * [CompTIA A+](https://www.credly.com/earner/earned/badge/60ac2b04-2474-48c2-a9f9-78090cee9b80): Certified Since April 27, 2021 | Expires: January 10, 2028
@@ -17,45 +13,27 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 * CJIS Certification: Certified Since January 10, 2025 | Expires: January 10, 2026
 * LPI Linux Essentials: _In Progress_  | Expires: N/A
 * CCNA: _In Progress_  | Expires: N/A
-
-
-
-
+## Technical Skills
+**Programming Languages**: Python, HTML, CSS, MySQL, Powershell
+**Development/Project Tools**: GitHub, NetBox, Jira, Slack, OpenSSL, PuTTY, Wireshark, Notepad++, Active Directory
+**Operating Systems**: macOS, Linux, Windows,  IOS, Android
+**Soft Skills**: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving
 ## Work Experience
-**Gordon Food Service | Plant City, FL**
-Network Administrator Intern
-_May 2024 - July 2024_
-> * Assisted in wiping and decommissioning old Cisco hardware as part of a comprehensive network upgrade for a distribution center.
-> * Added and maintained connections to multiple core server interfaces, created new interfaces, and assigned IP addresses for rendering configurations.
-> * Utilized NetBox to ensure accurate and efficient IP address allocation and documentation, improving overall network reliability and performance.
+**City of Daytona Beach | Information Technology Intern | Daytona Beach, FL |** _December 2024 - Present_
+> * Assisted with installing, configuring, and maintaining hardware and software systems across the city’s public buildings and the police department, as part of their disaster recovery plan.
+> * Provided technical support and troubleshooting for end-users, resolving issues with workstations, printers, and other IT equipment through ticketing systems.
+> * Collaborated with IT teams to ensure network security, connectivity, and adherence to best practices for city operations.
 
-**Gordon Food Service | Plant City, FL**
-Rotational Intern
-_May 2023 - July 2023_
-> * Rotated through multiple roles, acquiring a comprehensive understanding of the end-to-end operations and supply chain dynamics within GFS.
-> * Developed strong interpersonal skills while working alongside professionals from diverse backgrounds, fostering effective communication and the ability to adapt to varying work environments.
-> * Developed a proactive mindset and critical thinking abilities to overcome complex business problems in a fast-paced and dynamic industry.
+**Gordon Food Service |  Network Administrator Intern | Plant City, FL |** _May 2024 - July 2024_
+Decommissioned 100+ obsolete Cisco hardware components as part of a comprehensive network upgrade for a 500,000 sq ft distribution center.
+Established and maintained 50+ connections to core server interfaces, creating and assigning IP addresses to enhance configuration accuracy.
+Utilized NetBox to streamline IP allocation processes, boosting documentation accuracy by 35% and improving network reliability.
 
-**Target | Orlando, FL**
-General Merchandise Expert
-_May 2022 - Apr 2023_
-> * Handled over 600 pulls and backstock products from General Merchandise categories including pushing and stocking products to the sales floor efficiently and timely in addition to efficiently unloading 28’, 48’, and 53’ trailers.
-> * Contributed to team results in a fast-paced General Merchandise environment while supporting the needs of guest services with skill and efficiency.
-Resolved inventory problems, improved operations, and provided exceptional client support.
-
-**Walmart | Orlando, FL**
-OGP/ Personal Shopper
-_Apr 2021 - Aug 2021_
-> * Gather customers' items from their online grocery list and have them ready for pick up at the appropriate time.
-> * Monitor sales activities to ensure that customers receive satisfactory service and quality goods.
-> * Provide customer service by greeting and assisting customers, and responding to customer inquiries and complaints.
-
-**Chick-Fil-A | Orlando, FL**
-Back of House Team Member
-_Aug 2019 - Apr 2021_
-> * Review work procedures and operational problems to determine ways to improve service, performance, or safety.
-> * Ensuring the freshness of food and ingredients by checking for quality, and keeping track of old and new items while rotating stock.
-> * Inspect and clean food preparation areas, such as equipment and work surfaces, or serving areas to ensure safe and sanitary food-handling practices.
+Orange Technical College (East Campus)							                 Orlando, FL
+Teacher Assistant										    Jan 2020 - May 2020
+Diagnosed and resolved hardware/software issues for 30+ devices weekly, maintaining lab efficiency for students.
+Reimaged 50+ laptops and desktops monthly, ensuring consistent functionality for instructional purposes.
+Analyzed bi-weekly equipment performance reports to identify and resolve recurring technical issues.
 
 ## Leadership Experience & Activies 
 
