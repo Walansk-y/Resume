@@ -1,9 +1,9 @@
 # IT Technician
 
 ## Education
-**Bethune-Cookman University | Daytona Beach, FL |** _August 2021 - May 2025_</br> 
+**Bethune-Cookman University | Daytona Beach, FL |** <sup>_August 2021 - May 2025_</sup></br> 
 _Bachelor of Science_ | Computer Information Systems | GPA 3.3</br>
-**Orange Technical College (East Campus) | Orlando, FL**  _August 2019 - April 2021_</br>
+**Orange Technical College (East Campus) | Orlando, FL**  <sup>_August 2019 - April 2021_</sup></br>
 _Certificate Degree_ | Information Technology | GPA: 4.0
 
 ## Certifications
@@ -40,7 +40,7 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 ### HTML & CSS Website
 * **Objective:** Demonstrated proficiency in HTML and CSS by creating a fully functional music store webpage for a Final Exam.
 * **Tools/Technologies:** HTML, CSS, Notepad++
-> * **Tasks:**
+* **Tasks:**
 > - Designed and implemented a responsive website layout for a fictional music store.
 > - Integrated a working contact form using HTML forms.
 > - Created an intuitive navigation system to enhance user experience.
