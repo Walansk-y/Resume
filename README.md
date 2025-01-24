@@ -38,8 +38,8 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 
 ## Technical Projects
 ### HTML & CSS Website
-> * **Objective:** Demonstrated proficiency in HTML and CSS by creating a fully functional music store webpage for a Final Exam.
-> * **Tools/Technologies:** HTML, CSS, Notepad++
+* **Objective:** Demonstrated proficiency in HTML and CSS by creating a fully functional music store webpage for a Final Exam.
+* **Tools/Technologies:** HTML, CSS, Notepad++
 > * **Tasks:**
 > - Designed and implemented a responsive website layout for a fictional music store.
 > - Integrated a working contact form using HTML forms.
