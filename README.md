@@ -16,10 +16,10 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 * CCNA: _In Progress_  | Expires: N/A
 
 ## Technical Skills
-**Programming Languages**: Python, HTML, CSS, MySQL, Powershell</br>
-**Development/Project Tools**: GitHub, NetBox, Jira, Slack, OpenSSL, PuTTY, Wireshark, Notepad++, Active Directory</br>
-**Operating Systems**: macOS, Linux, Windows,  IOS, Android</br>
-**Soft Skills**: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving</br>
+**Programming Languages**: Python, HTML, CSS, MySQL, Powershell </br>
+**Development/Project Tools**: GitHub, NetBox, Jira, Slack, OpenSSL, PuTTY, Wireshark, Notepad++, Active Directory </br>
+**Operating Systems**: macOS, Linux, Windows,  IOS, Android </br>
+**Soft Skills**: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving </br>
 
 ## Work Experience
 **City of Daytona Beach | Information Technology Intern | Daytona Beach, FL |** <sup>_December 2024 - Present_</sup>
