@@ -7,9 +7,9 @@ _Bachelor of Science_ | Computer Information Systems | GPA 3.3
 _Certificate Degree_ | Information Technology | GPA: 4.0
 
 ## Certifications
-* [CompTIA A+](https://www.credly.com/earner/earned/badge/60ac2b04-2474-48c2-a9f9-78090cee9b80): Certified Since April 27, 2021 | Expires: January 10, 2028
+* [CompTIA A+](https://www.credly.com/badges/60ac2b04-2474-48c2-a9f9-78090cee9b80): Certified Since April 27, 2021 | Expires: January 10, 2028
 * [CompTIA Network+](https://www.credly.com/badges/2ab760be-22e9-4db5-afab-d26d41baee5b): Certified Since July 5, 2024 | Expires: January 10, 2028
-* [CompTIA Security+](https://www.credly.com/earner/earned/badge/3992e779-00ef-42a6-8c32-23857a446f39): Certified Since January 10, 2025  | Expires: January 10, 2028
+* [CompTIA Security+](https://www.credly.com/badges/3992e779-00ef-42a6-8c32-23857a446f39): Certified Since January 10, 2025  | Expires: January 10, 2028
 * CJIS Certification: Certified Since January 10, 2025 | Expires: January 10, 2026
 * LPI Linux Essentials: _In Progress_  | Expires: N/A
 * CCNA: _In Progress_  | Expires: N/A
