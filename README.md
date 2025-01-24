@@ -45,7 +45,7 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 > - Integrated a working contact form using HTML forms.
 > - Created an intuitive navigation system to enhance user experience.
 
-### Home Lab | Windows Server 2019 Environment
+### [Home Lab | Windows Server 2019 Environment](another-page.html)
 * **Objective:** Developed a simulated enterprise network environment for Active Directory management and networking practice.
 * **Tools/Technologies:** Windows Server 2019, VirtualBox, PowerShell, DHCP, ADUC
 * **Tasks:**
