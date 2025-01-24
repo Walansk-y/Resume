@@ -37,7 +37,7 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 > * Analyzed bi-weekly equipment performance reports to identify and resolve recurring technical issues.
 
 ## Technical Projects
-### HTML & CSS Website
+### [HTML & CSS Website](another-page.html)
 * **Objective:** Demonstrated proficiency in HTML and CSS by creating a fully functional music store webpage for a Final Exam.
 * **Tools/Technologies:** HTML, CSS, Notepad++
 * **Tasks:**
@@ -45,7 +45,7 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 > - Integrated a working contact form using HTML forms.
 > - Created an intuitive navigation system to enhance user experience.
 
-### [Home Lab | Windows Server 2019 Environment](another-page.html)
+### Home Lab | Windows Server 2019 Environment
 * **Objective:** Developed a simulated enterprise network environment for Active Directory management and networking practice.
 * **Tools/Technologies:** Windows Server 2019, VirtualBox, PowerShell, DHCP, ADUC
 * **Tasks:**
