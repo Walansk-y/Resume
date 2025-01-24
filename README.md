@@ -1,25 +1,25 @@
 # IT Technician
-## Technical Skills & Interests
-* Programming Languages: Python, [HTML](./another-page.html), CSS, MySQL _(Novice)_
-* Development Tools: Git, GitHub, NetBox _(Novice)_
-* Operating Systems: macOS _(Novice)_,  Linux _(Intermediate)_, Windows _(Advanced)_
-* Soft Skills: Communication, Leadership, Attention to Detail, Customer Service, Teamwork, Problem Solving
-* Personal Interests: Reading, Learning, After School Tutoring/Mentoring, Band, Composition, Vinyl Collecting, Sports
 
 ## Education
-**Bethune-Cookman University | Daytona Beach, FL** _Class of 2025_
-> * B.S. in Computer Information Systems
-> * Relevant Coursework: Computer Networking, Network Administration I & II, Network Design
-> * Certifications: [Testout PC Pro](https://certification.testout.com/verifycert/6-2C6-VWN8U), [CompTIA A+](https://www.credly.com/badges/52bac8d6-5618-4a08-8dd0-bfb69e1b4d40), [CompTIA Network+](https://www.credly.com/badges/f3954a57-fa76-4625-b8c6-c8e570b11e40)
-> * Awards/Honors: Fall 21’ Honor Roll | Spring 22’-Spring 24’ Dean's List
+**Bethune-Cookman University | Daytona Beach, FL**_August 2021 - May 2025_
 
-**Orange Technical College (East Campus) | Orlando, FL**
-> * Certification in Information Technology | GPA: 4.0                                                                    
-> * Relevant Coursework: Advanced Operating Systems, Network Fundamentals, 
+_Bachelor of Science_ | Computer Information Systems | GPA 3.3
+* Relevant Coursework: Computer Networking, Network Administration I, Network Security
 
-**Edgewater High School | Orlando, FL**
-> * High School Diploma | GPA: 3.57                                                                                              
-> * Awards/Honors: Principal Honor Roll, Robert Brendan Carr Musician’s Scholarship
+**Orange Technical College (East Campus) | Orlando, FL**  _August 2019 - April 2021_
+_Certificate Degree_ | Information Technology | GPA: 4.0
+* Relevant Coursework: Advanced Operating Systems, Network Fundamentals,
+
+## Certifications
+* [CompTIA A+](https://www.credly.com/earner/earned/badge/60ac2b04-2474-48c2-a9f9-78090cee9b80): Certified Since April 27, 2021 | Expires: January 10, 2028
+* [CompTIA Network+](https://www.credly.com/badges/2ab760be-22e9-4db5-afab-d26d41baee5b): Certified Since July 5, 2024 | Expires: January 10, 2028
+* [CompTIA Security+](https://www.credly.com/earner/earned/badge/3992e779-00ef-42a6-8c32-23857a446f39): Certified Since January 10, 2025  | Expires: January 10, 2028
+* CJIS Certification: Certified Since January 10, 2025 | Expires: January 10, 2026
+* LPI Linux Essentials: _In Progress_  | Expires: N/A
+* CCNA: _In Progress_  | Expires: N/A
+
+
+
 
 ## Work Experience
 **Gordon Food Service | Plant City, FL**
