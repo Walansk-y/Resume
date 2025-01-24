@@ -47,26 +47,26 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 
 
 ### Home Lab | Windows Server 2019 Environment
-Objective: Developed a simulated enterprise network environment for Active Directory management and networking practice.
-Tools/Technologies: Windows Server 2019, VirtualBox, PowerShell, DHCP, ADUC
-Tasks:
-Configured a Windows Server 2019 domain controller with Active Directory roles.
-Automated the creation of over 500 user accounts using a custom PowerShell script and a .txt file as input.
-Set up DHCP to assign IP addresses dynamically across the virtual network.
+* **Objective:** Developed a simulated enterprise network environment for Active Directory management and networking practice.
+* **Tools/Technologies:** Windows Server 2019, VirtualBox, PowerShell, DHCP, ADUC
+* **Tasks:**
+> - Configured a Windows Server 2019 domain controller with Active Directory roles.
+> - Automated the creation of over 500 user accounts using a custom PowerShell script and a .txt file as input.
+> - Set up DHCP to assign IP addresses dynamically across the virtual network.
 
 ### Travel Router
-Objective: Build a portable and secure travel router using a Raspberry Pi to ensure privacy and reliable internet access while on the go.
-Tools/Technologies: Raspberry Pi, OpenWRT, VPN, Shell Scripting 
-Tasks:
-Configured OpenWRT to manage Wi-Fi networks and routing.
-Implemented VPN for secure and encrypted internet connections.
-Created scripts to streamline network selection and optimize connection speeds.
+* **Objective:** Build a portable and secure travel router using a Raspberry Pi to ensure privacy and reliable internet access while on the go.
+* **Tools/Technologies:** Raspberry Pi, OpenWRT, VPN, Shell Scripting 
+* **Tasks:**
+* **Configured OpenWRT to manage Wi-Fi networks and routing.
+* **Implemented VPN for secure and encrypted internet connections.
+* **Created scripts to streamline network selection and optimize connection speeds.
 
 ## Activities & Leadership
-**Bethune Cookman Univerity | Section Leader |** _May 2022 - Present_
-**Kappa Kappa Psi National Honorary Band Fraternity Inc | Secretary |** _January 2024 - Present_
-**What’s Next Dance Incorporated | General Body |** _April 2022 - Present_
-**The Taylor Creation | 2nd Vice President |** _March 2023 - August 2024_
+**Bethune Cookman Univerity | Section Leader |** _May 2022 - Present_</br> 
+**Kappa Kappa Psi National Honorary Band Fraternity Inc | Secretary |** _January 2024 - Present_</br>
+**What’s Next Dance Incorporated | General Body |** _April 2022 - Present_</br>
+**The Taylor Creation | 2nd Vice President |** _March 2023 - August 2024_</br>
 
 
 
