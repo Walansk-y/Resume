@@ -61,7 +61,7 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 > - Implemented VPN for secure and encrypted internet connections.
 > - Created scripts to streamline network selection and optimize connection speeds.
 
-### Password Strength Analyzer/Generator
+### [Password Strength Analyzer/Generator](https://walansk-y.github.io/password-analyzer/)
 * **Objective:** Aim to enhance password security awareness by providing users with real-time feedback on their password strength, checking passwords against a database of known breaches using the Have I Been Pwned API, and offering a customizable password generator to help users create stronger, more secure passwords.
 * **Tools & Technologies:** JavaScript, Node.js, Express.js, HTML, CSS, Have I Been Pwned API, GitHub, Render
 * **Tasks:** 
