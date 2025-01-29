@@ -31,7 +31,7 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 > * Established and maintained 50+ connections to core server interfaces, creating and assigning IP addresses to enhance configuration accuracy.
 > * Utilized NetBox to streamline IP allocation processes, boosting documentation accuracy by 35% and improving network reliability.
 
-**Orange Technical College (East Campus) | Teacher Assistant | Orlando, FL |** <sup>_Jan 2020 - May 2020_</sup>
+**Orange Technical College | Teacher Assistant | Orlando, FL |** <sup>_Jan 2020 - May 2020_</sup>
 > * Diagnosed and resolved hardware/software issues for 30+ devices weekly, maintaining lab efficiency for students.
 > * Reimaged 50+ laptops and desktops monthly, ensuring consistent functionality for instructional purposes.
 > * Analyzed bi-weekly equipment performance reports to identify and resolve recurring technical issues.
@@ -60,6 +60,15 @@ _Certificate Degree_ | Information Technology | GPA: 4.0
 > - Configured OpenWRT to manage Wi-Fi networks and routing.
 > - Implemented VPN for secure and encrypted internet connections.
 > - Created scripts to streamline network selection and optimize connection speeds.
+
+### Password Strength Analyzer/Generator
+* **Objective:** Aim to enhance password security awareness by providing users with real-time feedback on their password strength, checking passwords against a database of known breaches using the Have I Been Pwned API, and offering a customizable password generator to help users create stronger, more secure passwords.
+* **Tools & Technologies:** JavaScript, Node.js, Express.js, HTML, CSS, Have I Been Pwned API, GitHub, Render
+* **Tasks:** 
+> - Developed a full-stack Password Strength Analyzer that evaluates password security and checks against breach databases.
+> - Designed a customizable password generator allowing users to specify length and character types for secure password creation.
+> - Implemented secure API calls to ensure user passwords remain private while being checked for compromise.
+
 
 ## Activities & Leadership
 **Bethune Cookman Univerity | Section Leader |** _May 2022 - Present_</br> 
